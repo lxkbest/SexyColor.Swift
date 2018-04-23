@@ -1,0 +1,40 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"order_info": {
+			"order_id": 5804421,
+			"order_sn": "2017091509140139522",
+			"pay_id": 4,
+			"consignee": "\u859b\u51ef\u51ef",
+			"goods_amount": 198,
+			"order_amount": 189,
+			"bonus": 0,
+			"shipping_fee": 0,
+			"integral_money": 0,
+			"payment_discount_price": 5,
+			"user_discount_price": 4,
+			"ordinary_goods_prices": 198,
+			"specialty_goods_prices ": 0,
+			"deposit": 0,
+			"add_time": "2017-09-15 09:14:01",
+			"invoice_no": "",
+			"shipping_name": "",
+			"order_status": "\u672a\u4ed8\u6b3e",
+			"is_comment": 2,
+			"order_tel": "134****1553",
+			"order_address": "\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a\u5357\u5b81\u5e02\u9095\u5b81\u533a\u4e1c\u65b9\u5916\u56fd\u8bed\u5b66\u966235\u53f71\u680b103\u5bbf\u820d"
+		},
+		"order_goods": [{
+			"goods_id": 8806,
+			"order_sn": "2017091509140139522",
+			"goods_name": "COC\u7f57\u9a6c\u5927\u5e1d\u52a0\u957f\u591a\u9891\u4eff\u771f\u9633\u5177",
+			"goods_img": "http:\/\/t.dddua.com\/?url=http%3A%2F%2Fs-api.dddua.com%2Fimages%2F201709%2Fsource_img%2F8806_P_1504659774435.jpg&mode=clip&w=300&h=300&prog=1&client=qu&fmt=webp&sig=32cba8a384b1c85f9260fb1684185815e43f91f1",
+			"app_price": 198,
+			"goods_number": 1,
+			"goods_attr": "\u6b3e\u578b : \u5355\u53ea\u9633\u5177",
+			"extension_code": "",
+			"is_comment": 1
+		}]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"consignee": "\u859b\u51ef\u51ef",
+		"province": 7,
+		"city": 97,
+		"district": 853,
+		"address": "\u4e1c\u65b9\u5916\u56fd\u8bed\u5b66\u966235\u53f71\u680b103\u5bbf\u820d",
+		"mobile": "13471011553",
+		"address_id": 9235636,
+		"province_text": "\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a",
+		"district_text": "\u9095\u5b81\u533a",
+		"city_text": "\u5357\u5b81\u5e02"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"payments_list": [{
+			"pay_id": 4,
+			"pay_code": "alipay",
+			"pay_name": "\u652f\u4ed8\u5b9d",
+			"app_shipping_fee": 79,
+			"discount": 5,
+			"discount_msg": "\u7acb\u51cf5\u5143"
+		}, {
+			"pay_id": 12,
+			"pay_code": "wxpay",
+			"pay_name": "\u5fae\u4fe1",
+			"app_shipping_fee": 79,
+			"discount": 5,
+			"discount_msg": "\u7acb\u51cf5\u5143"
+		}, {
+			"pay_id": 11,
+			"pay_code": "gateway",
+			"pay_name": "\u94f6\u884c\u5361\/\u4fe1\u7528\u5361",
+			"app_shipping_fee": 79,
+			"discount": 0,
+			"discount_msg": ""
+		}, {
+			"pay_id": 3,
+			"pay_code": "cod",
+			"pay_name": "\u8d27\u5230\u4ed8\u6b3e",
+			"app_shipping_fee": 198,
+			"discount": 0,
+			"discount_msg": ""
+		}]
+	}
+}

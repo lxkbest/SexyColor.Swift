@@ -1,0 +1,50 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"order_info": {
+			"order_id": 5800551,
+			"order_sn": "2017091411472273901",
+			"pay_id": 4,
+			"consignee": "\u859b\u51ef\u51ef",
+			"goods_amount": 498,
+			"order_amount": 483,
+			"bonus": 0,
+			"shipping_fee": 0,
+			"integral_money": 0,
+			"payment_discount_price": 5,
+			"user_discount_price": 10,
+			"ordinary_goods_prices": 498,
+			"specialty_goods_prices ": 0,
+			"deposit": 0,
+			"add_time": "2017-09-14 11:47:22",
+			"invoice_no": "",
+			"shipping_name": "",
+			"order_status": "\u5df2\u53d6\u6d88",
+			"is_comment": 2,
+			"order_tel": "134****1553",
+			"order_address": "\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a\u5357\u5b81\u5e02\u9095\u5b81\u533a\u4e1c\u65b9\u5916\u56fd\u8bed\u5b66\u966235\u53f71\u680b103\u5bbf\u820d"
+		},
+		"order_goods": [{
+			"goods_id": 11361,
+			"order_sn": "2017091411472273901",
+			"goods_name": "\u5b89\u592a\u533b \u4e2d\u5f0f\u7537\u7528\u5ef6\u65f6\u55b7\u5242\uff08\u7ecf\u5178\u7248\uff0910ml",
+			"goods_img": "http:\/\/t.dddua.com\/?url=http%3A%2F%2Fs-api.dddua.com%2Fimages%2F201708%2Fsource_img%2F11361_P_1502936435744.jpg&mode=clip&w=300&h=300&prog=1&client=qu&fmt=webp&sig=db2482d507c8e686e18ddfb8804f190eda119f32",
+			"app_price": 199,
+			"goods_number": 1,
+			"goods_attr": "\u5957\u9910 : \u5b89\u592a\u533b10ml",
+			"extension_code": "",
+			"is_comment": 1
+		}, {
+			"goods_id": 9038,
+			"order_sn": "2017091411472273901",
+			"goods_name": "\u6070\u7136\u56fd\u9645 7\u79cd\u8bed\u97f3\u4e92\u52a8\u7535\u52a8\u98de\u673a\u676f",
+			"goods_img": "http:\/\/t.dddua.com\/?url=http%3A%2F%2Fs-api.dddua.com%2Fimages%2F201708%2Fsource_img%2F9038_P_1502185333611.jpg&mode=clip&w=300&h=300&prog=1&client=qu&fmt=webp&sig=468cb1db66a7ddb2cacf0f55ad618ada0602ddf4",
+			"app_price": 299,
+			"goods_number": 1,
+			"goods_attr": "\u6b3e\u578b : \u98de\u673a\u676f\u5355\u54c1",
+			"extension_code": "",
+			"is_comment": 1
+		}]
+	}
+}

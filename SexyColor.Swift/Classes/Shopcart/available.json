@@ -1,0 +1,36 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"bonus_list": [{
+			"bonus_id": 10160841,
+			"landing_type": 2,
+			"order_id": 0,
+			"start_date": 1505318400,
+			"end_date": 1505577600,
+			"type_name": "APP\u65b0\u4eba\u4e13\u4eab\u523820\u5143",
+			"type_money": 20,
+			"min_goods_amount": 200,
+			"status": 1,
+			"is_expiring": 0,
+			"bonus_description": "\u5168\u573a\u901a\u7528, \u6ee1200\u5143\u53ef\u7528",
+			"unavailable_desc": "",
+			"landing_link": "566"
+		}, {
+			"bonus_id": 10160836,
+			"landing_type": 2,
+			"order_id": 0,
+			"start_date": 1505318400,
+			"end_date": 1505577600,
+			"type_name": "APP\u65b0\u4eba\u4e13\u4eab\u523810\u5143",
+			"type_money": 10,
+			"min_goods_amount": 100,
+			"status": 1,
+			"is_expiring": 0,
+			"bonus_description": "\u5168\u573a\u901a\u7528, \u6ee1100\u5143\u53ef\u7528",
+			"unavailable_desc": "",
+			"landing_link": "566"
+		}],
+		"invalid_bonus_list": []
+	}
+}

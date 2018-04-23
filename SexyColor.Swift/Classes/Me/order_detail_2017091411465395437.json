@@ -1,0 +1,40 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"order_info": {
+			"order_id": 5800546,
+			"order_sn": "2017091411465395437",
+			"pay_id": 4,
+			"consignee": "\u859b\u51ef\u51ef",
+			"goods_amount": 199,
+			"order_amount": 180,
+			"bonus": 10,
+			"shipping_fee": 0,
+			"integral_money": 0,
+			"payment_discount_price": 5,
+			"user_discount_price": 4,
+			"ordinary_goods_prices": 199,
+			"specialty_goods_prices ": 0,
+			"deposit": 0,
+			"add_time": "2017-09-14 11:46:53",
+			"invoice_no": "",
+			"shipping_name": "",
+			"order_status": "\u5df2\u53d6\u6d88",
+			"is_comment": 2,
+			"order_tel": "134****1553",
+			"order_address": "\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a\u5357\u5b81\u5e02\u9095\u5b81\u533a\u4e1c\u65b9\u5916\u56fd\u8bed\u5b66\u966235\u53f71\u680b103\u5bbf\u820d"
+		},
+		"order_goods": [{
+			"goods_id": 5394,
+			"order_sn": "2017091411465395437",
+			"goods_name": "Secwell\u6070\u7136\u56fd\u9645\u5b85\u7537\u5973\u795e\u9732\u9732\u540d\u5668",
+			"goods_img": "http:\/\/t.dddua.com\/?url=http%3A%2F%2Fs-api.dddua.com%2Fimages%2F201611%2Fsource_img%2F5394_P_1479182683695.jpg&mode=clip&w=300&h=300&prog=1&client=qu&fmt=webp&sig=ff1f8c7161cd880805ec8705d771517968bf0290",
+			"app_price": 199,
+			"goods_number": 1,
+			"goods_attr": "\u6b3e\u578b : \u903c\u771f\u5973\u4f18\u540d\u5668\u9001\u3010\u6da6\u6ed1\u6db2+\u52a0\u6e29\u68d2\u3011",
+			"extension_code": "",
+			"is_comment": 1
+		}]
+	}
+}

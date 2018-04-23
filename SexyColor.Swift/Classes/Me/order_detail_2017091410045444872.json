@@ -1,0 +1,60 @@
+{
+	"code": 200,
+	"message": "",
+	"data": {
+		"order_info": {
+			"order_id": 5800141,
+			"order_sn": "2017091410045444872",
+			"pay_id": 4,
+			"consignee": "\u859b\u51ef\u51ef",
+			"goods_amount": 496,
+			"order_amount": 461.1,
+			"bonus": 20,
+			"shipping_fee": 0,
+			"integral_money": 0,
+			"payment_discount_price": 5,
+			"user_discount_price": 9.9,
+			"ordinary_goods_prices": 496,
+			"specialty_goods_prices ": 0,
+			"deposit": 0,
+			"add_time": "2017-09-14 10:04:54",
+			"invoice_no": "",
+			"shipping_name": "",
+			"order_status": "\u672a\u4ed8\u6b3e",
+			"is_comment": 2,
+			"order_tel": "134****1553",
+			"order_address": "\u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a\u5357\u5b81\u5e02\u9095\u5b81\u533a\u4e1c\u65b9\u5916\u56fd\u8bed\u5b66\u966235\u53f71\u680b103\u5bbf\u820d"
+		},
+		"order_goods": [{
+			"goods_id": 4991,
+			"order_sn": "2017091410045444872",
+			"goods_name": "\u5348\u591c\u9b45\u529b \u5927\u6446\u60c5\u8da3\u540a\u5e26\u7761\u88d9 \u52a0\u5927\u7801",
+			"goods_img": "http:\/\/t.dddua.com\/?url=http%3A%2F%2Fs-api.dddua.com%2Fimages%2F201503%2Fsource_img%2F4991_P_1427270259283.jpg&mode=clip&w=300&h=300&prog=1&client=qu&fmt=webp&sig=e75194dbbc9a3493895190828a539a1f28120b16",
+			"app_price": 150,
+			"goods_number": 1,
+			"goods_attr": "\u6b3e\u5f0f : \u6027\u611f\u7761\u8863+\u8df3\u86cb+\u6da6\u6ed1\u6db2+\u907f\u5b55\u5957",
+			"extension_code": "",
+			"is_comment": 1
+		}, {
+			"goods_id": 4991,
+			"order_sn": "2017091410045444872",
+			"goods_name": "\u5348\u591c\u9b45\u529b \u5927\u6446\u60c5\u8da3\u540a\u5e26\u7761\u88d9 \u52a0\u5927\u7801",
+			"goods_img": "http:\/\/t.dddua.com\/?url=http%3A%2F%2Fs-api.dddua.com%2Fimages%2F201503%2Fsource_img%2F4991_P_1427270259283.jpg&mode=clip&w=300&h=300&prog=1&client=qu&fmt=webp&sig=e75194dbbc9a3493895190828a539a1f28120b16",
+			"app_price": 58,
+			"goods_number": 1,
+			"goods_attr": "\u6b3e\u5f0f : \u5355\u4ef6\u4ea7\u54c1",
+			"extension_code": "",
+			"is_comment": 1
+		}, {
+			"goods_id": 10911,
+			"order_sn": "2017091410045444872",
+			"goods_name": "KAWAII \u9a6c\u5361\u9f99 \u5973\u7528\u9707\u52a8\u6309\u6469\u5668 \u8df3\u86cb",
+			"goods_img": "http:\/\/t.dddua.com\/?url=http%3A%2F%2Fs-api.dddua.com%2Fimages%2F201703%2Fsource_img%2F10911_P_1488954102608.jpg&mode=clip&w=300&h=300&prog=1&client=qu&fmt=webp&sig=acbd538a5f5baa36d8e94b312713839e7907f891",
+			"app_price": 288,
+			"goods_number": 1,
+			"goods_attr": "\u989c\u8272 : \u6811\u8393\u8272",
+			"extension_code": "",
+			"is_comment": 1
+		}]
+	}
+}
